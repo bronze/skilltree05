@@ -30,4 +30,3 @@ Built from the official Grinding Gear Games exports: [`poe2-skilltree-export`](h
 
 
 
-You can use the online version of my project too (thanks to whoever made that) : https://natwarth.github.io/poe2-skilltree/ 
